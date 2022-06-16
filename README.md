@@ -12,7 +12,7 @@ Nama Anggota :
 
 #UI/UX
 
-![Screenshoot 7](img/figmalaundry.PNG)
+![Screenshoot 7](figmalaundry.png)
 
 ## Hasil Praktikum
 
