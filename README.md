@@ -12,7 +12,7 @@ Nama Anggota :
 
 #UI/UX
 
-![Screenshoot 7](figmalaundry.png)
+![ui/ux](img/figmalaundry.png)
 
 ## Hasil Praktikum
 
@@ -22,4 +22,5 @@ Nama Anggota :
 ![Screenshoot 4](img/04.jpeg)
 ![Screenshoot 5](img/05.png)
 ![Screenshoot 6](img/06.png)
+
 
