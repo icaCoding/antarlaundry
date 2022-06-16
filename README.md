@@ -1,5 +1,8 @@
 # antarlaundry
 
+## Demo Video
+![Demo video](demovideo.mp4)
+
 ## Hasil Praktikum
 
 ![Screenshoot 1](img/01.png)
