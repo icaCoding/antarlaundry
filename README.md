@@ -1,7 +1,7 @@
 # antarlaundry
 
 ## Demo Video
-![Demo video](demovideo.mp4)
+![Demo video](demoaplikasi.mp4)
 
 ## Hasil Praktikum
 
