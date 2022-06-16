@@ -17,7 +17,7 @@ Nama Anggota :
 ## Hasil Praktikum
 
 ![Screenshoot 1](img/01.png)
-![Screenshoot 2](img/02.jpeg)
+![Screenshoot 2](img/2.jpeg)
 ![Screenshoot 3](img/03.png)
 ![Screenshoot 4](img/04.jpeg)
 ![Screenshoot 5](img/05.png)
