@@ -1,4 +1,11 @@
-# antarlaundry
+# Kelompok Tongkrongan
+# Tema Aplikasi Laundry
+Kelas : MI 2C <br />
+Prodi : D3-MI <br />
+Nama Anggota :
+1. Neha Viranica Nauly <br />
+2. Risa Rosdiana <br />
+3. Nelli Wulandari <br />
 
 ## Demo Video
 ![Demo video](demoaplikasi.mp4)
